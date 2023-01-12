@@ -6,7 +6,8 @@
 Hledáme Backend Lead & Architecta se zkušenostmi s Python, Django, AWS a s vedením a rozvojem tymů.
 
 Ve zkratce: V první řadě budeš hlavní osobou zodpovědnou za backendový vývoj, architekturu systému a návrh nových fíčur. 
-Skills:  Python, Django, Celery, REST, GraphQL, Postgres, ElasticSearch (ELK stack), DynamoDB, SQS, S3 a další
+
+Náš tech-stack:  Python, Django, Celery, REST, GraphQL, Postgres, ElasticSearch (ELK stack), DynamoDB, SQS, S3 a další
 
 [Zjistit více o Backend lead & architect](https://skippay.cz/kariera/backend-lead-and-architect/)
 
@@ -14,7 +15,7 @@ Skills:  Python, Django, Celery, REST, GraphQL, Postgres, ElasticSearch (ELK sta
 ### Senior Python Developer
 Hledáme Senior Python Deva pro agilní vývoj chytré platební metody ve fintech startupu. Flexibilní pracovní doba, možnost práce remote, podílení se na technické strategii.
 
-Skills:  Python, Django, Celery, REST, GraphQL, Postgres, ElasticSearch (ELK stack), DynamoDB, SQS, S3 a další
+Náš tech-stack:  Python, Django, Celery, REST, GraphQL, Postgres, ElasticSearch (ELK stack), DynamoDB, SQS, S3 a další
 
 [Zjistit více o Senior Python Developer](https://skippay.cz/kariera/senior-python-developer/)
 
