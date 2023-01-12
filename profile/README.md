@@ -16,7 +16,7 @@ Hledáme Senior Python Deva pro agilní vývoj chytré platební metody ve finte
 
 Skills:  Python, Django, Celery, REST, GraphQL, Postgres, ElasticSearch (ELK stack), DynamoDB, SQS, S3 a další
 
-[Senior Python Developer](https://skippay.cz/kariera/senior-python-developer/)
+[Zjistit více o Senior Python Developer](https://skippay.cz/kariera/senior-python-developer/)
 
 ## Naše mise
 Dnešní řečí bychom se mohli nazvat jako fintech start-up. Děláme revoluci v nakupování, placení a bankovnictví. Pohání nás nápady, ne byrokracie. Nejdříve jsme přišli s odloženou platbou pro online nákupy. Platíte tak jen za to, co si nejdříve v klidu vyzkoušíte. Dále jsme připravili platební kartu na principu kreditky. S tím rozdílem, že je konečně srozumitelná a výhodná pro běžného člověka.
