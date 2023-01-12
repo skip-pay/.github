@@ -3,7 +3,7 @@
 ## Otevřené pozice
 
 ### Python backend lead & architect
-Hledáme Backend Lead & Architecta s Python, Django a AWS zkušenostmi se zkušenostmi s vedením a rozvojem tymů.
+Hledáme Backend Lead & Architecta se zkušenostmi s Python, Django, AWS a s vedením a rozvojem tymů.
 
 Ve zkratce: V první řadě budeš hlavní osobou zodpovědnou za backendový vývoj, architekturu systému a návrh nových fíčur. 
 Skills:  Python, Django, Celery, REST, GraphQL, Postgres, ElasticSearch (ELK stack), DynamoDB, SQS, S3 a další
