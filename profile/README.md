@@ -19,6 +19,16 @@ Náš tech-stack:  Python, Django, Celery, REST, GraphQL, Postgres, ElasticSearc
 
 [Zjistit více o Senior Python Developer](https://skippay.cz/kariera/senior-python-developer/?utm_source=github&utm_medium=social&utm_campaign=internal)
 
+
+### Senior IT admin & support
+Hledáme IT admina do fintech startupu. Flexibilní pracovní doba, možnost práce remote.
+
+Co tě ve zkratce čeká:
+- správa vyšších desítek notebooků (Windows, macOS, Linux)
+- správa cloudového Active Directory a Office 365 (vlastní tenant)
+- konfigurace a správa vnitřní sítě v kancelářích, wifi a VPN
+- ... [zjistit více o Senior IT admin & support](https://skippay.cz/kariera/senior-it-admin-and-support/?utm_source=github&utm_medium=social&utm_campaign=internal)
+
 ## Naše mise
 Dnešní řečí bychom se mohli nazvat jako fintech start-up. Děláme revoluci v nakupování, placení a bankovnictví. Pohání nás nápady, ne byrokracie. Nejdříve jsme přišli s odloženou platbou pro online nákupy. Platíte tak jen za to, co si nejdříve v klidu vyzkoušíte. Dále jsme připravili platební kartu na principu kreditky. S tím rozdílem, že je konečně srozumitelná a výhodná pro běžného člověka.
 
