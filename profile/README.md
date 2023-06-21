@@ -2,12 +2,12 @@
 
 ## Otevřené pozice
 
-### Senior Python Developer
-Hledáme Senior Python Deva pro agilní vývoj chytré platební metody ve fintech startupu. Flexibilní pracovní doba, možnost práce remote, podílení se na technické strategii.
+### Python Developer Team Lead
+Jsi zkušený Python developer, ale zároveň se cítíš být leadrem, který by chtěl vedle svých tech skills uplatnit i ty manažerské? Chceš práci plánovat a rozdělovat, ale taky si vyhrnout rukávy a jít programovat? Je ti sympatický agilní vývoj ve 14denních sprintech a láká tě svět fintechu zaměřeného na vývoj chytré platební metody? Pak tu pro tebe máme fajn příležitost! Jednomu z našich dvou malých backendových týmů hledáme Team Leada. Ozvi se nám a společně změníme svět placení.
 
 Náš tech-stack:  Python, Django, Celery, REST, GraphQL, Postgres, ElasticSearch (ELK stack), DynamoDB, SQS, S3 a další
 
-[Zjistit více o Senior Python Developer](https://skippay.cz/kariera/senior-python-developer/?utm_source=github&utm_medium=social&utm_campaign=internal)
+[Zjistit více o Python Developer Team Lead](https://skippay.cz/kariera/backend-team-lead/?utm_source=github&utm_medium=social&utm_campaign=internal)
 
 
 ## Naše mise
