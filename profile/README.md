@@ -2,12 +2,10 @@
 
 ## Otevřené pozice
 
-### Python Developer Team Lead
-Jsi zkušený Python developer, ale zároveň se cítíš být leadrem, který by chtěl vedle svých tech skills uplatnit i ty manažerské? Chceš práci plánovat a rozdělovat, ale taky si vyhrnout rukávy a jít programovat? Je ti sympatický agilní vývoj ve 14denních sprintech a láká tě svět fintechu zaměřeného na vývoj chytré platební metody? Pak tu pro tebe máme fajn příležitost! Jednomu z našich dvou malých backendových týmů hledáme Team Leada. Ozvi se nám a společně změníme svět placení.
+### Cloud Engineer / DevOps (AWS)
+Je pro tebe otevřená komunikace a transparentnost prioritou? Nudí tě zbytečně složitá řešení a jdeš raději cestou jednoduchosti a dlouhodobosti? Seš týmový hráč, kterému je ale i samostatnost vlastní? Je spolehlivost jednou z tvých hlavních vlastností? Pokud se v popisu vidíš, čti dál, seš na správném místě, hledáme totiž Cloud Engineera, který s námi potáhne za jeden provoz a rozšíří náš „devopsácký“ tým.
 
-Náš tech-stack:  Python, Django, Celery, REST, GraphQL, Postgres, ElasticSearch (ELK stack), DynamoDB, SQS, S3 a další
-
-[Zjistit více o Python Developer Team Lead](https://skippay.cz/kariera/backend-team-lead/?utm_source=github&utm_medium=social&utm_campaign=internal)
+[Zjistit více o Cloud Engineer / DevOps](https://skippay.cz/kariera/cloud-engineer/dev-ops/?utm_source=github&utm_medium=social&utm_campaign=internal)
 
 
 ## Naše mise
