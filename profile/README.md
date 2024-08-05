@@ -2,13 +2,6 @@
 
 ## Otevřené pozice
 
-### Senior Python Developer
-Hledáme Senior Python Deva pro agilní vývoj chytré platební metody ve fintech startupu. Flexibilní pracovní doba, možnost práce remote, podílení se na technické strategii.
-
-Náš tech-stack:  Python, Django, Celery, REST, GraphQL, Postgres, ElasticSearch (ELK stack), DynamoDB, SQS, S3 a další
-
-[Zjistit více o Senior Python Developer](https://skippay.cz/kariera/senior-python-developer/?utm_source=github&utm_medium=social&utm_campaign=internal)
-
 ## Naše mise
 Dnešní řečí bychom se mohli nazvat jako fintech start-up. Děláme revoluci v nakupování, placení a bankovnictví. Pohání nás nápady, ne byrokracie. Nejdříve jsme přišli s odloženou platbou pro online nákupy. Platíte tak jen za to, co si nejdříve v klidu vyzkoušíte. Dále jsme připravili platební kartu na principu kreditky. S tím rozdílem, že je konečně srozumitelná a výhodná pro běžného člověka.
 
