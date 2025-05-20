@@ -1,15 +1,5 @@
 # Budoucnost placení začíná s námi. Jsme Skip Pay
 
-## Otevřené pozice
-
-### Senior Frontend Developer
-Hledáme čtvrtého člena do týmu, který perfektně zvládá React, má bohaté zkušenosti a je připraven přinášet řešení a inovace. 
-[Zjistit více](https://skippay.cz/kariera/senior-frontend-developer/?utm_source=github&utm_medium=social&utm_campaign=internal)
-
-### DevOps Senior Engineer (Lead)
-Hledáme zkušeného Platform Engineera, který povede vývoj naší technologické platformy, optimalizuje procesy a zajistí škálovatelnost, spolehlivost a bezpečnost našich služeb.
-[Zjistit více](https://skippay.cz/kariera/platform-lead/?utm_source=github&utm_medium=social&utm_campaign=internal)
-
 ## Naše mise
 Dnešní řečí bychom se mohli nazvat jako fintech start-up. Děláme revoluci v nakupování, placení a bankovnictví. Pohání nás nápady, ne byrokracie. Nejdříve jsme přišli s odloženou platbou pro online nákupy. Platíte tak jen za to, co si nejdříve v klidu vyzkoušíte. Dále jsme připravili platební kartu na principu kreditky. S tím rozdílem, že je konečně srozumitelná a výhodná pro běžného člověka.
 
